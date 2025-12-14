@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **pillowtalkerarian@live.com** For Collaboration/Project or
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GpRqe6a2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hasin-anjum-arian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArianPillo77636) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pillowtalkerarian@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GpRqe6a2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hasin-anjum-arian) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/arian71)[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/ariansardar20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pillowtalkerarian@gmail.com) 
 
 
 # 💻 Tech Stack:
